@@ -7,7 +7,7 @@
 
 오늘 실습에서는 **SSH 설정, Docker 컨테이너, AWS EC2, Kubernetes Pod 관리**까지 실습하였고, 발생한 오류 및 원인도 포함하여 정리합니다.  
 
----
+
 
 ## 1️⃣ SSH 키 생성 (Windows)
 
