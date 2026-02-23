@@ -237,5 +237,3 @@ kubectl delete all --all
 
 ```
 
----
-
